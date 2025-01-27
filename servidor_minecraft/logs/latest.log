@@ -112,3 +112,14 @@
 [27Jan2025 16:11:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Your First Grave]
 [27Jan2025 16:11:39.433] [Server thread/INFO] [tombstone/]: The player matty088 has successfully been saved
 [27Jan2025 16:12:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Here They Come]
+[27Jan2025 16:14:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Monster Hunter]
+[27Jan2025 16:14:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Knowledge of Death]
+[27Jan2025 16:14:41.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [A Strange Grave Dust]
+[27Jan2025 16:14:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Acquire Hardware]
+[27Jan2025 16:18:03.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.154.111.160:37443] logged in with entity id 6192 at (353.04617629314106, 77.0, -182.60289514149434)
+[27Jan2025 16:18:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[27Jan2025 16:18:03.755] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[27Jan2025 16:20:48.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Timed out
+[27Jan2025 16:20:48.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:20:48.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jan2025 16:23:18.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
