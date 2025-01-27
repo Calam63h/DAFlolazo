@@ -148,3 +148,23 @@
 [27Jan2025 16:38:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
 [27Jan2025 16:41:29.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [27Jan2025 16:41:32.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:45:56.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.154.111.160:43619] logged in with entity id 12526 at (293.7581347520713, 80.9943194724808, -560.980852096769)
+[27Jan2025 16:45:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[27Jan2025 16:45:56.538] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[27Jan2025 16:47:18.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:47:18.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:47:46.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.154.111.160:59631] logged in with entity id 13078 at (290.4067316452999, 91.48299136572815, -545.9909817196445)
+[27Jan2025 16:47:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[27Jan2025 16:47:46.822] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[27Jan2025 16:48:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to matty088]
+[27Jan2025 16:49:00.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Man From The Fog
+[27Jan2025 16:49:00.214] [Server thread/INFO] [tombstone/]: The player matty088 has successfully been saved
+[27Jan2025 16:49:12.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:49:12.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:49:16.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 56.500000, 83.500000, -910.500000]
+[27Jan2025 16:49:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Isn't It Iron Pick]
+[27Jan2025 16:49:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Suit Up]
+[27Jan2025 16:50:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:cooked_steak'
+[27Jan2025 16:50:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @p minecraft:cooked_steak 64<--[HERE]
+[27Jan2025 16:52:41.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
+[27Jan2025 16:53:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Amateur Archaeologist]

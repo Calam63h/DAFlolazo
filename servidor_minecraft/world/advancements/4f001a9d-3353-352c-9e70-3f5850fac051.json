@@ -21,7 +21,8 @@
     "criteria": {
       "minecraft:birch_forest": "2025-01-27 16:04:23 +0000",
       "minecraft:dark_forest": "2025-01-26 22:32:13 +0000",
-      "minecraft:grove": "2025-01-27 16:37:42 +0000"
+      "minecraft:grove": "2025-01-27 16:37:42 +0000",
+      "minecraft:plains": "2025-01-27 16:48:25 +0000"
     },
     "done": false
   },
@@ -118,6 +119,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-27 16:03:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-01-27 16:48:25 +0000"
     },
     "done": true
   },
