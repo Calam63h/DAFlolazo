@@ -2225,3 +2225,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jan2025 16:02:45.662] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
 [27Jan2025 16:02:45.751] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
 [27Jan2025 16:02:45.882] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_0 is being run through DFU (hash d9aa0b9cab38f10282a26f4439eb12ad329aff97e2b7a26cdb6a6bab87c88887), this will cause launch time delays
+[27Jan2025 16:03:11.214] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots is being run through DFU (hash 1fcf0be77235eb2856b015f542c7567c1ee719faf21946285911305a59f6ef65), this will cause launch time delays
+[27Jan2025 16:03:11.230] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_1 is being run through DFU (hash e05cb017ec39f3d64bd0895da26c95f7becd230d1d88380757e2bc6aa62009b5), this will cause launch time delays
+[27Jan2025 16:03:11.301] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_0 is being run through DFU (hash 36e5928c5fc5ff62065dfe140c9fd2681404c13c077424a9d53232844b7bf0cf), this will cause launch time delays
+[27Jan2025 16:03:11.319] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_main is being run through DFU (hash 8f26c2abd3d1eec4b5f774434255b0e8df746c1a998aa0cfaad1631f80b7dd99), this will cause launch time delays
+[27Jan2025 16:03:27.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:03:27.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:04:56.716] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[27Jan2025 16:05:20.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:05:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:06:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Feeling Watched]
+[27Jan2025 16:08:27.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:08:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:08:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Stone Age]
+[27Jan2025 16:08:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Getting an Upgrade]
+[27Jan2025 16:11:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was blown up by Creeper
+[27Jan2025 16:11:39.412] [Server thread/DEBUG] [tombstone/]: A new grave of the player matty088 was created at position [x:271, y:76, z:-112, dim:minecraft:overworld]
+[27Jan2025 16:11:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Your First Grave]
+[27Jan2025 16:11:39.433] [Server thread/INFO] [tombstone/]: The player matty088 has successfully been saved
+[27Jan2025 16:12:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Here They Come]
+[27Jan2025 16:13:27.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:13:27.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

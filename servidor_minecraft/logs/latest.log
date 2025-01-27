@@ -103,3 +103,12 @@
 [27Jan2025 15:57:36.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
 [27Jan2025 15:58:28.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [27Jan2025 16:01:19.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:05:20.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:05:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:06:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Feeling Watched]
+[27Jan2025 16:08:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Stone Age]
+[27Jan2025 16:08:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Getting an Upgrade]
+[27Jan2025 16:11:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was blown up by Creeper
+[27Jan2025 16:11:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Your First Grave]
+[27Jan2025 16:11:39.433] [Server thread/INFO] [tombstone/]: The player matty088 has successfully been saved
+[27Jan2025 16:12:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Here They Come]
