@@ -139,3 +139,12 @@
 [27Jan2025 16:30:21.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to matty088]
 [27Jan2025 16:30:41.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
 [27Jan2025 16:30:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:33:54.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.154.111.160:38577] logged in with entity id 10006 at (261.5399283654592, 83.68183192432483, -396.69999998807907)
+[27Jan2025 16:33:54.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[27Jan2025 16:33:54.255] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[27Jan2025 16:36:57.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:37:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to matty088]
+[27Jan2025 16:38:01.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:38:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[27Jan2025 16:41:29.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:41:32.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already

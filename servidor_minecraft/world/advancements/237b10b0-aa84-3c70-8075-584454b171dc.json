@@ -22,6 +22,7 @@
       "minecraft:birch_forest": "2025-01-27 16:03:01 +0000",
       "minecraft:dark_forest": "2025-01-27 15:54:07 +0000",
       "minecraft:dripstone_caves": "2025-01-27 16:11:42 +0000",
+      "minecraft:grove": "2025-01-27 16:38:45 +0000",
       "minecraft:meadow": "2025-01-27 16:03:45 +0000"
     },
     "done": false
@@ -359,7 +360,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-27 16:09:40 +0000",
-      "cooked_chicken": "2025-01-27 16:19:17 +0000"
+      "cooked_chicken": "2025-01-27 16:19:17 +0000",
+      "carrot": "2025-01-27 16:41:59 +0000"
     },
     "done": false
   },
@@ -789,15 +791,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 16:29:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 16:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-01-27 16:41:50 +0000"
     },
     "done": true
   },
@@ -819,9 +863,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 16:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 16:38:46 +0000"
     },
     "done": true
   },
