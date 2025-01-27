@@ -123,3 +123,19 @@
 [27Jan2025 16:20:48.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
 [27Jan2025 16:20:48.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Jan2025 16:23:18.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:24:11.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.154.111.160:39803] logged in with entity id 7826 at (351.0951957448314, 78.0, -181.60651512641243)
+[27Jan2025 16:24:11.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[27Jan2025 16:24:11.436] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[27Jan2025 16:25:34.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:26:04.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 lost connection: Disconnected
+[27Jan2025 16:26:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 left the game
+[27Jan2025 16:26:45.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:28:15.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matty088[/127.147.11.225:60129] logged in with entity id 8699 at (267.16088045591056, 84.0, -376.3985901747438)
+[27Jan2025 16:28:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 joined the game
+[27Jan2025 16:28:15.251] [Server thread/INFO] [Jade/]: Syncing config to matty088 (237b10b0-aa84-3c70-8075-584454b171dc)
+[27Jan2025 16:28:15.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Jan2025 16:28:22.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Set own game mode to Spectator Mode]
+[27Jan2025 16:30:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Sweet Dreams]
+[27Jan2025 16:30:21.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to matty088]
+[27Jan2025 16:30:41.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[27Jan2025 16:30:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
