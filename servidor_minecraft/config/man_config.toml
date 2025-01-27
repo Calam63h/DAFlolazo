@@ -7,7 +7,7 @@
 	#maximum duration of spawning in ticks
 	max_spawn_rate = 20000.0
 	#if true, it shows a jumpscare image when killed
-	jumpscare = true
+	jumpscare = false
 	#minimum duration of getting chased in ticks
 	min_chase_duration = 400.0
 	#maximum duration of getting chased in ticks
