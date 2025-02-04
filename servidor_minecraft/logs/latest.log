@@ -620,3 +620,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [04Feb2025 21:08:21.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Feb2025 21:08:22.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Feb2025 21:08:22.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 21:08:33.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Zombie Lumberjack
+[04Feb2025 21:08:33.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Disconnected
+[04Feb2025 21:08:33.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[04Feb2025 21:08:33.941] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 21:08:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Acquire Hardware]
+[04Feb2025 21:09:36.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=41, y=63, z=-265}
+[04Feb2025 21:09:38.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=41, y=61, z=-266}
+[04Feb2025 21:09:38.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=42, y=62, z=-266}
+[04Feb2025 21:10:20.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Monster Hunter]
+[04Feb2025 21:10:48.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=42, y=63, z=-266}
+[04Feb2025 21:10:48.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=41, y=63, z=-265}
+[04Feb2025 21:11:06.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=41, y=64, z=-266}
+[04Feb2025 21:11:10.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=63, z=-276} BlockPos{x=41, y=64, z=-266}
+[04Feb2025 21:11:16.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 lost connection: Disconnected
+[04Feb2025 21:11:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 left the game
+[04Feb2025 21:11:25.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:47457] logged in with entity id 1994 at (41.38117807729628, 62.0, -265.69999998807907)
+[04Feb2025 21:11:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
+[04Feb2025 21:11:25.541] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
+[04Feb2025 21:13:16.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 lost connection: Disconnected
+[04Feb2025 21:13:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 left the game
+[04Feb2025 21:15:19.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.4.200.200:49567] logged in with entity id 2892 at (52.65919978964887, 64.0, -266.28165803626)
+[04Feb2025 21:15:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[04Feb2025 21:15:19.493] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
+[04Feb2025 21:15:36.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:54365] logged in with entity id 2930 at (41.38117807729628, 62.0, -265.69999998807907)
+[04Feb2025 21:15:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
+[04Feb2025 21:15:36.333] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
+[04Feb2025 21:16:27.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=64, z=-266}
+[04Feb2025 21:16:44.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 lost connection: Disconnected
+[04Feb2025 21:16:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 left the game
+[04Feb2025 21:17:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Gamerule keepInventory is now set to: true]
+[04Feb2025 21:17:54.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 21:17:54.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 21:18:26.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Stone Age]
