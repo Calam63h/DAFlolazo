@@ -653,3 +653,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [04Feb2025 21:17:54.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Feb2025 21:17:54.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Feb2025 21:18:26.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Stone Age]
+[04Feb2025 21:20:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Getting an Upgrade]
+[04Feb2025 21:21:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was shot by Skeleton
+[04Feb2025 21:23:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has completed the challenge [Free Willy]
