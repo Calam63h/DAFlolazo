@@ -3829,6 +3829,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-04 22:35:08 +0000",
       "minecraft:spider": "2025-02-04 21:10:20 +0000",
       "minecraft:cave_spider": "2025-02-04 21:44:18 +0000",
       "minecraft:zombie": "2025-02-04 21:10:23 +0000"
@@ -6180,6 +6181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6222,6 +6229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6237,6 +6250,24 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6276,6 +6307,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-04 22:28:59 +0000"
@@ -6291,6 +6328,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6312,9 +6355,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-02-04 22:35:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6333,6 +6388,12 @@
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6357,6 +6418,12 @@
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6426,6 +6493,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6438,9 +6517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-02-04 22:38:31 +0000"
     },
     "done": true
   },
@@ -6486,6 +6577,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-02-04 22:38:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6498,9 +6601,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-02-04 22:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6528,6 +6655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6546,6 +6679,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6555,6 +6694,24 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-04 22:37:38 +0000"
     },
     "done": true
   },
@@ -6576,6 +6733,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-02-04 22:37:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
@@ -6591,6 +6754,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2025-02-04 22:34:48 +0000"
     },
     "done": true
   },

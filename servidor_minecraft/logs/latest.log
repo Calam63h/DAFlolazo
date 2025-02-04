@@ -479,3 +479,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [04Feb2025 22:33:23.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
 [04Feb2025 22:35:51.436] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1901, l='ServerLevel[world]', x=456.50, y=71.00, z=-1398.50]
 [04Feb2025 22:37:19.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
+[04Feb2025 22:39:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
+[04Feb2025 22:42:25.787] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3206, l='ServerLevel[world]', x=570.50, y=75.00, z=-1419.50]
+[04Feb2025 22:44:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
