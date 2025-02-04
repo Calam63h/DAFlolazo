@@ -668,3 +668,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [04Feb2025 21:37:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
 [04Feb2025 21:38:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Acquire Hardware]
 [04Feb2025 21:38:41.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Isn't It Iron Pick]
+[04Feb2025 21:40:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Crops of the Wild]
+[04Feb2025 21:41:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Hide and Seek]
+[04Feb2025 21:41:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Isn't It Iron Pick]
+[04Feb2025 21:41:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Amateur Archaeologist]
+[04Feb2025 21:41:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Suit Up]
+[04Feb2025 21:42:41.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Monster Hunter]
+[04Feb2025 21:43:24.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Amateur Archaeologist]
+[04Feb2025 21:44:54.329] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17625, l='ServerLevel[world]', x=476.50, y=76.00, z=-1402.50]
+[04Feb2025 21:47:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was blown up by Creeper
+[04Feb2025 21:47:18.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18235, l='ServerLevel[world]', x=456.50, y=71.00, z=-1400.50]
+[04Feb2025 21:47:49.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Diamonds!]
+[04Feb2025 21:48:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to 477.500000, 19.500000, -1513.500000]
+[04Feb2025 21:49:42.048] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04Feb2025 21:49:55.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18905, l='ServerLevel[world]', x=478.50, y=76.00, z=-1400.50]
+[04Feb2025 21:50:23.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19013, l='ServerLevel[world]', x=569.50, y=75.00, z=-1421.50]
+[04Feb2025 21:51:04.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19444, l='ServerLevel[world]', x=569.50, y=75.00, z=-1419.50]
+[04Feb2025 21:51:12.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19458, l='ServerLevel[world]', x=477.50, y=76.00, z=-1402.50]
+[04Feb2025 21:51:15.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <matty088> xaero-waypoint:horno:H:498:37:-1533:8:false:0:Internal-overworld-waypoints
+[04Feb2025 21:51:57.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19641, l='ServerLevel[world]', x=600.50, y=71.00, z=-1420.50]
+[04Feb2025 21:52:09.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19729, l='ServerLevel[world]', x=568.50, y=75.00, z=-1421.50]
+[04Feb2025 21:52:16.613] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=117, y=82, z=-1691}
+[04Feb2025 21:52:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Not Today, Thank You]
+[04Feb2025 21:52:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to 498.500000, 37.500000, -1532.500000]
+[04Feb2025 21:52:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
+[04Feb2025 21:53:06.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Suit Up]
+[04Feb2025 21:55:10.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 lost connection: Disconnected
+[04Feb2025 21:55:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 left the game
+[04Feb2025 21:55:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Will it Come Back?]
+[04Feb2025 21:59:20.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20955, l='ServerLevel[world]', x=478.50, y=76.00, z=-1401.50]
