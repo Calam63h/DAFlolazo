@@ -656,3 +656,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [04Feb2025 21:20:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Getting an Upgrade]
 [04Feb2025 21:21:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was shot by Skeleton
 [04Feb2025 21:23:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has completed the challenge [Free Willy]
+[04Feb2025 21:29:24.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 274.500000, 63.500000, -323.500000]
+[04Feb2025 21:29:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Sweet Dreams]
+[04Feb2025 21:29:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkt404> zzzz
+[04Feb2025 21:30:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Dread Hound
+[04Feb2025 21:30:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkt404> -
+[04Feb2025 21:30:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Dread Hound
+[04Feb2025 21:30:18.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Sweet Dreams]
+[04Feb2025 21:33:54.035] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04Feb2025 21:34:27.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has completed the challenge [Free Willy]
+[04Feb2025 21:37:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
+[04Feb2025 21:38:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Acquire Hardware]
+[04Feb2025 21:38:41.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Isn't It Iron Pick]
