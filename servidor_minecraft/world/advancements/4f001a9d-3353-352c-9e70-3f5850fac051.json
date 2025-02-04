@@ -1815,6 +1815,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-02-04 21:30:45 +0000",
       "minecraft:beach": "2025-02-04 21:36:02 +0000",
+      "minecraft:river": "2025-02-04 22:00:49 +0000",
       "minecraft:snowy_plains": "2025-02-04 21:31:08 +0000",
       "minecraft:snowy_taiga": "2025-02-04 20:50:17 +0000",
       "minecraft:cold_ocean": "2025-02-04 21:34:11 +0000",
@@ -2379,6 +2380,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 22:01:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 21:41:02 +0000"
@@ -2427,6 +2434,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-04 22:01:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 21:38:32 +0000"
@@ -2442,6 +2455,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-04 21:51:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-02-04 21:56:09 +0000"
     },
     "done": true
   },
@@ -2583,6 +2602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-02-04 21:57:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_leather": {
     "criteria": {
       "has_stick": "2025-02-04 21:17:33 +0000"
@@ -2676,6 +2701,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-04 21:23:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-02-04 21:55:18 +0000"
     },
     "done": true
   },
@@ -3291,6 +3322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 22:01:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 21:41:02 +0000"
@@ -3456,6 +3493,12 @@
   "spartanweaponry:recipes/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 21:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-04 22:01:09 +0000"
     },
     "done": true
   },
@@ -3897,6 +3940,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-02-04 21:54:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-02-04 21:18:04 +0000"
@@ -4143,6 +4192,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-04 22:01:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 21:41:02 +0000"
@@ -4218,6 +4273,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-04 21:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-04 22:01:09 +0000"
     },
     "done": true
   },
@@ -4547,7 +4608,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-02-04 21:31:06 +0000"
+      "cooked_porkchop": "2025-02-04 21:31:06 +0000",
+      "bread": "2025-02-04 22:03:20 +0000"
     },
     "done": false
   },
@@ -4656,6 +4718,12 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-04 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-02-04 21:55:45 +0000"
     },
     "done": true
   },
