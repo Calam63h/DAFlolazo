@@ -4777,6 +4777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-02-06 01:11:33 +0000"
@@ -4819,6 +4825,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-02-06 01:24:21 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-02-06 01:08:43 +0000"
@@ -4828,6 +4840,12 @@
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2025-02-06 01:09:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-02-06 01:29:26 +0000"
     },
     "done": true
   },
@@ -4873,6 +4891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-02-06 01:21:20 +0000"
@@ -4903,6 +4927,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-06 01:24:21 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/sandcastle": {
     "criteria": {
       "has_seashell": "2025-02-06 01:13:27 +0000"
@@ -4927,6 +4963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-06 01:24:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-02-06 01:21:12 +0000"
@@ -4936,6 +4978,12 @@
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-02-06 01:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -4970,6 +5018,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:08:43 +0000"
@@ -4979,6 +5033,12 @@
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_the_recipe": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-06 01:24:14 +0000"
     },
     "done": true
   },
@@ -5021,6 +5081,12 @@
   "mcwstairs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5075,6 +5141,18 @@
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5174,15 +5252,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 01:24:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-02-06 01:17:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-06 01:29:26 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5234,9 +5330,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-02-06 01:29:26 +0000"
     },
     "done": true
   },
@@ -5252,9 +5360,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-06 01:33:10 +0000"
     },
     "done": true
   },
@@ -5267,6 +5387,18 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-02-06 01:12:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5307,9 +5439,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-02-06 01:28:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-02-06 01:21:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 01:29:26 +0000"
     },
     "done": true
   },
@@ -5334,6 +5478,12 @@
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-06 01:24:21 +0000"
     },
     "done": true
   },
@@ -5367,6 +5517,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 01:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-06 01:16:21 +0000"
@@ -5382,6 +5538,18 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-02-06 01:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-06 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 01:29:26 +0000"
     },
     "done": true
   },
@@ -5406,6 +5574,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 01:24:21 +0000"
     },
     "done": true
   },
@@ -5448,6 +5622,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-02-06 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 01:24:21 +0000"
     },
     "done": true
   },
@@ -5514,6 +5694,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-02-06 01:16:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5598,6 +5784,18 @@
   "mcwstairs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-02-06 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-06 01:33:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
@@ -5709,6 +5907,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-06 01:24:21 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-02-06 01:08:43 +0000"
@@ -5742,6 +5946,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-06 01:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-06 01:28:05 +0000"
     },
     "done": true
   },
