@@ -790,3 +790,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [06Feb2025 02:25:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
 [06Feb2025 02:27:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
 [06Feb2025 02:27:26.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[06Feb2025 02:29:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Dark Forging]
+[06Feb2025 02:29:58.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 81.500000, 79.500000, -2102.500000]
+[06Feb2025 02:30:16.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has reached the goal [Dark Blacksmith]
+[06Feb2025 02:30:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
+[06Feb2025 02:30:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [You Are A Pirate]
+[06Feb2025 02:31:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to Darkt404]
+[06Feb2025 02:31:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [You Are A Pirate]
+[06Feb2025 02:31:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
+[06Feb2025 02:31:40.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [You Are A Pirate]
+[06Feb2025 02:32:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Sea Serpent
+[06Feb2025 02:32:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to Dan0980]
+[06Feb2025 02:32:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Vindicator
+[06Feb2025 02:32:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:32:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Vindicator
+[06Feb2025 02:32:58.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -843.500000, 67.500000, 34.500000]
+[06Feb2025 02:33:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Vindicator
+[06Feb2025 02:33:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to Dan0980]
+[06Feb2025 02:33:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Vindicator
+[06Feb2025 02:33:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:33:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Vindicator
+[06Feb2025 02:33:35.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Dan0980
+[06Feb2025 02:34:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Sea Serpent
+[06Feb2025 02:34:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:34:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Sea? Not a Problem]
+[06Feb2025 02:35:36.414] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[06Feb2025 02:35:41.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13364ms or 267 ticks behind
+[06Feb2025 02:35:41.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 moved too quickly! 6.553286945744503,-0.0108937489838965,-7.587516472545882
+[06Feb2025 02:35:41.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 moved too quickly! -0.8271636794983124,0.5355406886924214,-10.071417216307566
+[06Feb2025 02:35:41.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 moved too quickly! 0.1619880669069289,10.128321561915065,1.0015535454482745
+[06Feb2025 02:35:55.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 81.500000, 79.500000, -2102.500000]
+[06Feb2025 02:36:11.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Timed out
+[06Feb2025 02:36:11.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
+[06Feb2025 02:36:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:39:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Junior Summoner]
+[06Feb2025 02:39:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was doomed to fall by Dan0980 using [Tequila]
+[06Feb2025 02:39:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was doomed to fall by matty088
+[06Feb2025 02:39:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to -108.500000, -41.500000, -2040.500000]
+[06Feb2025 02:39:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -107.500000, -41.500000, -2040.500000]
+[06Feb2025 02:40:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [You Monster...]
+[06Feb2025 02:42:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:42:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Spiders Mother
+[06Feb2025 02:42:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to -43.500000, -44.500000, -2135.500000]
+[06Feb2025 02:43:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has reached the goal [Arachnophobe's Nightmare]
+[06Feb2025 02:43:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Baby Spider
+[06Feb2025 02:43:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 02:46:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Hot Stuff]
+[06Feb2025 02:46:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to matty088: tonoto
+[06Feb2025 02:46:39.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Hot Stuff]
+[06Feb2025 02:47:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Big Boy]
+[06Feb2025 02:47:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dan0980: la mano arriba
+[06Feb2025 02:48:49.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was blown up by matty088
+[06Feb2025 02:48:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -36.500000, -44.500000, -2191.500000]
+[06Feb2025 02:49:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was blown up by matty088
+[06Feb2025 02:49:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
