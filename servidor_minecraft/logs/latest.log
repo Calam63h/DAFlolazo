@@ -1,143 +1,143 @@
-[06Feb2025 00:57:51.631] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06Feb2025 00:57:51.637] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[06Feb2025 00:57:53.243] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06Feb2025 00:57:53.301] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/DAFlolazo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[06Feb2025 00:57:53.620] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 00:57:53.622] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 00:57:53.623] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 00:57:53.625] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 00:57:53.895] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[06Feb2025 00:57:53.896] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/DAFlolazo/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.jar
-[06Feb2025 00:57:53.896] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/DAFlolazo/servidor_minecraft/mods/curios-forge-5.11.1+1.20.1.jar
-[06Feb2025 00:57:53.896] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[06Feb2025 00:57:56.560] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Feb2025 00:57:56.732] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Feb2025 00:57:56.925] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2025 00:57:56.962] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2025 00:57:56.968] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2025 00:57:57.386] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:57:57.399] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:57:58.779] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[06Feb2025 00:57:58.779] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[06Feb2025 00:57:59.098] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[06Feb2025 00:58:00.014] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:58:00.015] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:58:02.361] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:58:02.364] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Feb2025 00:58:05.547] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[06Feb2025 00:58:06.386] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[06Feb2025 00:58:06.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[06Feb2025 00:58:06.399] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[06Feb2025 00:58:06.401] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[06Feb2025 00:58:06.402] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[06Feb2025 00:58:06.403] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[06Feb2025 00:58:06.406] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[06Feb2025 00:58:06.409] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[06Feb2025 00:58:06.614] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06Feb2025 00:58:06.615] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06Feb2025 00:58:07.351] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
-[06Feb2025 00:58:08.108] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[06Feb2025 00:58:08.275] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[06Feb2025 00:58:08.275] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[06Feb2025 00:58:08.276] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[06Feb2025 00:58:08.278] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[06Feb2025 00:58:08.525] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[06Feb2025 00:58:08.533] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[06Feb2025 00:58:08.535] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[06Feb2025 00:58:08.655] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[06Feb2025 00:58:08.670] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[06Feb2025 00:58:08.675] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[06Feb2025 00:58:09.468] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[06Feb2025 00:58:09.470] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[06Feb2025 00:58:09.472] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[06Feb2025 00:58:09.491] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[06Feb2025 00:58:09.494] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[06Feb2025 00:58:09.500] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[06Feb2025 00:58:09.502] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[06Feb2025 00:58:09.504] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[06Feb2025 00:58:09.510] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[06Feb2025 00:58:09.512] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[06Feb2025 00:58:09.513] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[06Feb2025 00:58:09.514] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[06Feb2025 00:58:09.515] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[06Feb2025 00:58:11.537] [main/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood
-[06Feb2025 00:58:11.550] [main/INFO] [Moonlight/]: Initialized block sets in 25ms
-[06Feb2025 00:58:12.843] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[06Feb2025 00:58:12.972] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Feb2025 00:58:12.974] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Feb2025 00:58:12.975] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[06Feb2025 00:58:13.112] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
-[06Feb2025 00:58:13.161] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[06Feb2025 00:58:13.175] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[06Feb2025 00:58:13.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[06Feb2025 00:58:13.260] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[06Feb2025 00:58:13.260] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[06Feb2025 00:58:13.261] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[06Feb2025 00:58:13.261] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[06Feb2025 00:58:13.355] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 4, 0, 1, 0, 0, 26, 14, 0] ms
-[06Feb2025 00:58:13.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[06Feb2025 00:58:13.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[06Feb2025 00:58:13.430] [main/INFO] [Moonlight/]: Initialized color sets in 57ms
-[06Feb2025 00:58:13.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[06Feb2025 00:58:13.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/holidays.json
-[06Feb2025 00:58:13.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[06Feb2025 00:58:13.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[06Feb2025 00:58:13.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[06Feb2025 00:58:13.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[06Feb2025 00:58:13.480] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[06Feb2025 00:58:13.482] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[06Feb2025 00:58:13.544] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[06Feb2025 00:58:13.557] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[06Feb2025 00:58:13.558] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[06Feb2025 00:58:13.560] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[06Feb2025 00:58:13.572] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[06Feb2025 00:58:13.576] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[06Feb2025 00:58:13.578] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[06Feb2025 00:58:13.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[06Feb2025 00:58:13.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[06Feb2025 00:58:13.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[06Feb2025 00:58:13.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[06Feb2025 00:58:13.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: AHEAD Current: 1.0.1 Target: null
-[06Feb2025 00:58:13.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[06Feb2025 00:58:13.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: AHEAD Current: 1.1.2 Target: null
-[06Feb2025 00:58:13.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Feb2025 00:58:14.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[06Feb2025 00:58:14.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[06Feb2025 00:58:14.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[06Feb2025 00:58:14.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[06Feb2025 00:58:14.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[06Feb2025 00:58:14.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[06Feb2025 00:58:14.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.12 Target: null
-[06Feb2025 00:58:14.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[06Feb2025 00:58:14.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.58 Target: null
-[06Feb2025 00:58:14.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[06Feb2025 00:58:14.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[06Feb2025 00:58:14.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[06Feb2025 00:58:14.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[06Feb2025 00:58:14.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[06Feb2025 00:58:14.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[06Feb2025 00:58:14.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[06Feb2025 00:58:14.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[06Feb2025 00:58:14.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[06Feb2025 00:58:14.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[06Feb2025 00:58:14.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[06Feb2025 00:58:14.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[06Feb2025 00:58:18.785] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Feb2025 00:58:22.272] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
-[06Feb2025 00:58:22.273] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
-[06Feb2025 00:58:22.428] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 58 ms
-[06Feb2025 00:58:24.060] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[06Feb2025 00:58:24.091] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[06Feb2025 00:58:24.309] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
-[06Feb2025 00:58:24.310] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[06Feb2025 19:51:38.313] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Feb2025 19:51:38.317] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Feb2025 19:51:40.500] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Feb2025 19:51:40.573] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/DAFlolazo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Feb2025 19:51:40.940] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Feb2025 19:51:40.942] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Feb2025 19:51:40.944] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Feb2025 19:51:40.946] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Feb2025 19:51:41.312] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Feb2025 19:51:41.313] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/DAFlolazo/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.jar
+[06Feb2025 19:51:41.314] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/DAFlolazo/servidor_minecraft/mods/curios-forge-5.11.1+1.20.1.jar
+[06Feb2025 19:51:41.314] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[06Feb2025 19:51:44.540] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Feb2025 19:51:44.708] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Feb2025 19:51:44.998] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Feb2025 19:51:45.093] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Feb2025 19:51:45.099] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Feb2025 19:51:45.724] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:45.742] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:47.472] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[06Feb2025 19:51:47.472] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[06Feb2025 19:51:48.037] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[06Feb2025 19:51:50.294] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:50.295] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:53.057] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:53.058] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Feb2025 19:51:58.618] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[06Feb2025 19:51:59.677] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Feb2025 19:51:59.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[06Feb2025 19:51:59.701] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[06Feb2025 19:51:59.703] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[06Feb2025 19:51:59.704] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[06Feb2025 19:51:59.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[06Feb2025 19:51:59.717] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[06Feb2025 19:51:59.724] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[06Feb2025 19:51:59.859] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Feb2025 19:51:59.859] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Feb2025 19:52:00.853] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
+[06Feb2025 19:52:01.944] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[06Feb2025 19:52:02.147] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[06Feb2025 19:52:02.148] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[06Feb2025 19:52:02.148] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[06Feb2025 19:52:02.159] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[06Feb2025 19:52:02.410] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[06Feb2025 19:52:02.430] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Feb2025 19:52:02.432] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[06Feb2025 19:52:02.557] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[06Feb2025 19:52:02.594] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[06Feb2025 19:52:02.603] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[06Feb2025 19:52:03.168] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[06Feb2025 19:52:03.169] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[06Feb2025 19:52:03.171] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[06Feb2025 19:52:03.192] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[06Feb2025 19:52:03.195] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[06Feb2025 19:52:03.202] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[06Feb2025 19:52:03.205] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[06Feb2025 19:52:03.207] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[06Feb2025 19:52:03.219] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[06Feb2025 19:52:03.221] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[06Feb2025 19:52:03.222] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[06Feb2025 19:52:03.223] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[06Feb2025 19:52:03.224] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[06Feb2025 19:52:05.357] [main/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood
+[06Feb2025 19:52:05.367] [main/INFO] [Moonlight/]: Initialized block sets in 24ms
+[06Feb2025 19:52:07.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[06Feb2025 19:52:07.191] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[06Feb2025 19:52:07.192] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[06Feb2025 19:52:07.194] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[06Feb2025 19:52:07.307] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
+[06Feb2025 19:52:07.346] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[06Feb2025 19:52:07.358] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[06Feb2025 19:52:07.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[06Feb2025 19:52:07.449] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[06Feb2025 19:52:07.449] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[06Feb2025 19:52:07.450] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[06Feb2025 19:52:07.450] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[06Feb2025 19:52:07.534] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 3, 0, 0, 0, 0, 20, 8, 0] ms
+[06Feb2025 19:52:07.612] [main/INFO] [Moonlight/]: Initialized color sets in 76ms
+[06Feb2025 19:52:07.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[06Feb2025 19:52:07.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[06Feb2025 19:52:07.675] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[06Feb2025 19:52:07.678] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[06Feb2025 19:52:07.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[06Feb2025 19:52:07.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/holidays.json
+[06Feb2025 19:52:07.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[06Feb2025 19:52:07.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[06Feb2025 19:52:07.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[06Feb2025 19:52:07.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[06Feb2025 19:52:07.741] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[06Feb2025 19:52:07.749] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[06Feb2025 19:52:07.750] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[06Feb2025 19:52:07.751] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Feb2025 19:52:07.763] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Feb2025 19:52:07.767] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Feb2025 19:52:07.779] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[06Feb2025 19:52:08.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[06Feb2025 19:52:08.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[06Feb2025 19:52:08.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[06Feb2025 19:52:08.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[06Feb2025 19:52:08.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: AHEAD Current: 1.0.1 Target: null
+[06Feb2025 19:52:08.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[06Feb2025 19:52:08.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: AHEAD Current: 1.1.2 Target: null
+[06Feb2025 19:52:08.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Feb2025 19:52:08.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[06Feb2025 19:52:08.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[06Feb2025 19:52:08.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[06Feb2025 19:52:08.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[06Feb2025 19:52:08.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[06Feb2025 19:52:08.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[06Feb2025 19:52:08.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.12 Target: null
+[06Feb2025 19:52:08.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[06Feb2025 19:52:08.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.58 Target: null
+[06Feb2025 19:52:08.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[06Feb2025 19:52:08.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[06Feb2025 19:52:08.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[06Feb2025 19:52:08.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[06Feb2025 19:52:08.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[06Feb2025 19:52:08.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[06Feb2025 19:52:08.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[06Feb2025 19:52:08.741] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[06Feb2025 19:52:08.741] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[06Feb2025 19:52:08.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[06Feb2025 19:52:08.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[06Feb2025 19:52:08.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[06Feb2025 19:52:12.810] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Feb2025 19:52:16.097] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[06Feb2025 19:52:16.098] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/DAFlolazo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[06Feb2025 19:52:16.257] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 48 ms
+[06Feb2025 19:52:17.690] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[06Feb2025 19:52:17.721] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Feb2025 19:52:17.926] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
+[06Feb2025 19:52:17.928] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[06Feb2025 00:58:24.397] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[06Feb2025 19:52:17.932] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[06Feb2025 00:58:25.255] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[06Feb2025 00:58:25.346] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[06Feb2025 00:58:25.466] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
+[06Feb2025 19:52:18.681] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[06Feb2025 19:52:18.788] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[06Feb2025 19:52:18.962] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -209,7 +209,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Feb2025 00:58:25.584] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[06Feb2025 19:52:19.064] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -261,8 +261,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Feb2025 00:58:25.604] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[06Feb2025 00:58:25.715] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
+[06Feb2025 19:52:19.080] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[06Feb2025 19:52:19.157] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -334,19 +334,19 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Feb2025 00:58:25.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[06Feb2025 00:58:25.955] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[06Feb2025 00:58:25.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[06Feb2025 00:58:25.970] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[06Feb2025 00:58:25.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[06Feb2025 00:58:25.983] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[06Feb2025 00:58:25.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[06Feb2025 00:58:26.099] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[06Feb2025 00:58:26.109] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[06Feb2025 00:58:26.134] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[06Feb2025 00:58:26.134] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[06Feb2025 00:58:26.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[06Feb2025 00:58:26.142] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[06Feb2025 19:52:19.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[06Feb2025 19:52:19.367] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[06Feb2025 19:52:19.367] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[06Feb2025 19:52:19.377] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[06Feb2025 19:52:19.377] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[06Feb2025 19:52:19.385] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[06Feb2025 19:52:19.386] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[06Feb2025 19:52:19.426] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[06Feb2025 19:52:19.430] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[06Feb2025 19:52:19.444] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[06Feb2025 19:52:19.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[06Feb2025 19:52:19.445] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[06Feb2025 19:52:19.450] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -384,463 +384,103 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06Feb2025 00:58:26.165] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[06Feb2025 00:58:26.165] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[06Feb2025 00:58:26.198] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[06Feb2025 00:58:26.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[06Feb2025 00:58:26.210] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[06Feb2025 00:58:26.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[06Feb2025 00:58:26.248] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[06Feb2025 00:58:26.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[06Feb2025 00:58:26.257] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[06Feb2025 00:58:26.279] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[06Feb2025 00:58:26.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.284] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[06Feb2025 00:58:26.284] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.286] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[06Feb2025 00:58:26.286] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.288] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[06Feb2025 00:58:26.290] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[06Feb2025 00:58:26.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.297] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[06Feb2025 00:58:26.297] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[06Feb2025 00:58:26.318] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[06Feb2025 00:58:26.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[06Feb2025 00:58:26.318] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[06Feb2025 00:58:26.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.328] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[06Feb2025 00:58:26.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[06Feb2025 00:58:26.353] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[06Feb2025 00:58:26.353] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[06Feb2025 00:58:26.361] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[06Feb2025 00:58:26.375] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[06Feb2025 00:58:26.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[06Feb2025 00:58:26.383] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[06Feb2025 00:58:26.400] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[06Feb2025 00:58:26.400] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[06Feb2025 00:58:26.410] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[06Feb2025 00:58:26.410] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[06Feb2025 00:58:26.411] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[06Feb2025 00:58:26.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[06Feb2025 00:58:26.426] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[06Feb2025 00:58:26.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[06Feb2025 00:58:26.479] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[06Feb2025 00:58:26.537] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[06Feb2025 00:58:26.567] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[06Feb2025 00:58:26.577] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[06Feb2025 00:58:26.621] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5534 advancements
-[06Feb2025 00:58:26.629] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[06Feb2025 00:58:26.638] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[06Feb2025 00:58:26.644] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[06Feb2025 00:58:26.644] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[06Feb2025 00:58:26.658] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
-[06Feb2025 00:58:26.667] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[06Feb2025 00:58:26.682] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[06Feb2025 00:58:26.695] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[06Feb2025 00:58:26.733] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[06Feb2025 00:58:29.767] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[06Feb2025 00:58:30.108] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.242759ms
-[06Feb2025 00:58:30.112] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[06Feb2025 00:58:30.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06Feb2025 00:58:30.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Feb2025 00:58:30.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Feb2025 00:58:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Feb2025 00:58:30.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Feb2025 00:58:30.438] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Feb2025 00:58:30.550] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Feb2025 00:58:30.550] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Feb2025 00:58:30.551] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Feb2025 00:58:30.551] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Feb2025 00:58:30.894] [Server thread/INFO] [spark/]: Starting background profiler...
-[06Feb2025 00:58:31.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Feb2025 00:58:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Feb2025 00:58:36.442] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06Feb2025 00:58:39.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.112] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.128] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.145] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.154] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.174] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.184] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 00:58:39.861] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[06Feb2025 00:58:39.977] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[06Feb2025 00:58:40.480] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[06Feb2025 00:58:40.548] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5572 ms
-[06Feb2025 00:58:40.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.984s)! For help, type "help"
-[06Feb2025 00:58:40.611] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Feb2025 00:58:40.616] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[06Feb2025 00:58:40.617] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[06Feb2025 00:59:16.328] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@105d94ea[id=<null>,name=matty088,properties={},legacy=false] (/127.109.23.60:48053) lost connection: Timed out
-[06Feb2025 01:00:08.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:35741] logged in with entity id 77 at (41.38117807729628, 62.0, -265.69999998807907)
-[06Feb2025 01:00:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
-[06Feb2025 01:00:09.040] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
-[06Feb2025 01:00:11.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
-[06Feb2025 01:00:27.839] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@480b254[id=<null>,name=matty088,properties={},legacy=false] (/127.109.23.60:58709) lost connection: Timed out
-[06Feb2025 01:00:36.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=63, z=-265}
-[06Feb2025 01:00:56.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.8.105.9:46007] logged in with entity id 264 at (596.3660460073323, 64.0, -2287.699999988079)
-[06Feb2025 01:00:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
-[06Feb2025 01:00:56.346] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
-[06Feb2025 01:00:58.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[06Feb2025 01:01:02.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=64, z=-266}
-[06Feb2025 01:01:31.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matty088[/127.109.23.60:45039] logged in with entity id 705 at (498.23750001192093, 37.0, -1533.0995539508262)
-[06Feb2025 01:01:31.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 joined the game
-[06Feb2025 01:01:31.973] [Server thread/INFO] [Jade/]: Syncing config to matty088 (237b10b0-aa84-3c70-8075-584454b171dc)
-[06Feb2025 01:01:33.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[06Feb2025 01:01:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dan0980> dan0980
-[06Feb2025 01:01:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dan0980 a server operator
-[06Feb2025 01:01:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:02:46.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 tried to swim in lava
-[06Feb2025 01:03:09.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Corpse Fish
-[06Feb2025 01:03:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:03:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Sweet Dreams]
-[06Feb2025 01:04:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Stone Age]
-[06Feb2025 01:04:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Getting an Upgrade]
-[06Feb2025 01:04:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to 600.500000, 62.500000, -2277.500000]
-[06Feb2025 01:05:26.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Acquire Hardware]
-[06Feb2025 01:07:45.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Monster Hunter]
-[06Feb2025 01:08:17.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Not Today, Thank You]
-[06Feb2025 01:08:42.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4463, l='ServerLevel[world]', x=601.50, y=73.00, z=-1430.50]
-[06Feb2025 01:10:06.626] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[06Feb2025 01:10:06.627] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[06Feb2025 01:10:38.065] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6535, l='ServerLevel[world]', x=681.50, y=75.00, z=-2628.50]
-[06Feb2025 01:11:33.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5808, l='ServerLevel[world]', x=819.83, y=72.00, z=-1612.55] died, message: 'Unemployed was slain by Zombie'
-[06Feb2025 01:11:35.805] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[06Feb2025 01:11:49.315] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[06Feb2025 01:11:55.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was shot by Skeleton
-[06Feb2025 01:11:55.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5635, l='ServerLevel[world]', x=821.17, y=73.00, z=-1612.70] died, message: 'Unemployed was slain by Zombie Villager'
-[06Feb2025 01:12:25.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/5937, l='ServerLevel[world]', x=914.76, y=64.63, z=-1567.50] died, message: 'Fisherman was slain by Zombie'
-[06Feb2025 01:13:06.727] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=133, y=67, z=-2683}
-[06Feb2025 01:13:08.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=133, y=67, z=-2683} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
-[06Feb2025 01:13:08.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=133, y=67, z=-2683}
-[06Feb2025 01:14:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Suit Up]
-[06Feb2025 01:14:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:15:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Isn't It Iron Pick]
-[06Feb2025 01:15:56.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 873.500000, 69.500000, -1637.500000]
-[06Feb2025 01:16:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [A Cut Above the Rest]
-[06Feb2025 01:16:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 484.500000, -19.500000, -1507.500000]
-[06Feb2025 01:16:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Deceived Hopes]
-[06Feb2025 01:17:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Mine? Mine? Mine?]
-[06Feb2025 01:18:26.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:18:28.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15849, l='ServerLevel[world]', x=625.50, y=70.00, z=-1431.50]
-[06Feb2025 01:18:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:19:24.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:19:36.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:19:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Piglin Brute
-[06Feb2025 01:20:00.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to 41.500000, 70.500000, -2850.500000]
-[06Feb2025 01:20:19.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Piglin Brute
-[06Feb2025 01:21:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Hammer Time!]
-[06Feb2025 01:21:20.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Ice Bucket Challenge]
-[06Feb2025 01:21:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:21:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:21:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [An Assassin's Need]
-[06Feb2025 01:22:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dan0980> a
-[06Feb2025 01:22:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkt404> zzz
-[06Feb2025 01:23:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 873.500000, 69.500000, -1637.500000]
-[06Feb2025 01:23:46.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:23:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:24:14.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19802, l='ServerLevel[world]', x=1020.50, y=72.00, z=-1761.50]
-[06Feb2025 01:25:06.364] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[06Feb2025 01:25:14.653] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20845, l='ServerLevel[world]', x=1031.50, y=72.00, z=-1788.50]
-[06Feb2025 01:25:27.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21161, l='ServerLevel[world]', x=967.50, y=73.00, z=-1763.50]
-[06Feb2025 01:25:44.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21369, l='ServerLevel[world]', x=1041.50, y=77.00, z=-1805.50]
-[06Feb2025 01:25:55.809] [Worker-Main-9/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (-295, -32, -3332)
-[06Feb2025 01:26:14.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22065, l='ServerLevel[world]', x=1021.50, y=72.00, z=-1762.50]
-[06Feb2025 01:26:27.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22337, l='ServerLevel[world]', x=979.50, y=72.00, z=-1790.50]
-[06Feb2025 01:26:32.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22377, l='ServerLevel[world]', x=1021.50, y=72.00, z=-1763.50]
-[06Feb2025 01:26:45.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:27:07.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:27:36.525] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23374, l='ServerLevel[world]', x=-106.50, y=71.00, z=-3338.50]
-[06Feb2025 01:28:00.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 996.500000, 144.500000, -1866.500000]
-[06Feb2025 01:28:26.025] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24309, l='ServerLevel[world]', x=1020.50, y=72.00, z=-1763.50]
-[06Feb2025 01:28:26.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24312, l='ServerLevel[world]', x=1063.50, y=80.00, z=-1870.50]
-[06Feb2025 01:28:38.281] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24481, l='ServerLevel[world]', x=1064.50, y=80.00, z=-1870.50]
-[06Feb2025 01:28:43.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24517, l='ServerLevel[world]', x=991.50, y=73.00, z=-1769.50]
-[06Feb2025 01:28:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 01:28:47.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24539, l='ServerLevel[world]', x=-131.50, y=70.00, z=-3360.50]
-[06Feb2025 01:28:53.908] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=5, y=74, z=-3643}
-[06Feb2025 01:28:58.860] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[06Feb2025 01:30:06.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25667, l='ServerLevel[world]', x=18.50, y=73.00, z=-3602.50]
-[06Feb2025 01:30:57.532] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26239, l='ServerLevel[world]', x=601.50, y=73.00, z=-1432.50]
-[06Feb2025 01:31:01.951] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=11, y=67, z=-3947}
-[06Feb2025 01:31:02.515] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=11, y=67, z=-3947} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
-[06Feb2025 01:31:02.517] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=11, y=67, z=-3947}
-[06Feb2025 01:31:26.377] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27041, l='ServerLevel[world]', x=603.50, y=73.00, z=-1432.50]
-[06Feb2025 01:31:34.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 moved too quickly! -2.736028472536077,-3.15233518685055,9.318248474649408
-[06Feb2025 01:31:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:31:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 996.500000, 183.500000, -1859.500000]
-[06Feb2025 01:31:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [The Imperial March]
-[06Feb2025 01:32:00.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27676, l='ServerLevel[world]', x=1030.50, y=72.00, z=-1788.50]
-[06Feb2025 01:32:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Set spawn point to 996, 201, -1858 [0.0] in minecraft:overworld for Dan0980]
-[06Feb2025 01:32:25.377] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27943, l='ServerLevel[world]', x=1063.50, y=80.00, z=-1872.50]
-[06Feb2025 01:32:34.928] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27966, l='ServerLevel[world]', x=1040.50, y=77.00, z=-1803.50]
-[06Feb2025 01:32:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Diamonds!]
-[06Feb2025 01:33:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Who is Cutting Onions?]
-[06Feb2025 01:33:24.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28180, l='ServerLevel[world]', x=1055.50, y=79.00, z=-1879.50]
-[06Feb2025 01:33:42.547] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28296, l='ServerLevel[world]', x=993.50, y=77.00, z=-1815.50]
-[06Feb2025 01:33:53.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Ghost
-[06Feb2025 01:34:15.930] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28701, l='ServerLevel[world]', x=-130.50, y=70.00, z=-3358.50]
-[06Feb2025 01:34:38.025] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28788, l='ServerLevel[world]', x=-16.50, y=73.00, z=-3473.50]
-[06Feb2025 01:34:41.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 lost connection: Disconnected
-[06Feb2025 01:34:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 left the game
-[06Feb2025 01:34:48.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28828, l='ServerLevel[world]', x=-127.50, y=71.00, z=-3363.50]
-[06Feb2025 01:34:51.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:58081] logged in with entity id 28839 at (997.8178126538373, 205.0, -1844.4434502700356)
-[06Feb2025 01:34:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
-[06Feb2025 01:34:51.638] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
-[06Feb2025 01:34:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -308.500000, 68.500000, -3731.500000]
-[06Feb2025 01:35:00.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29437, l='ServerLevel[world]', x=1017.50, y=77.00, z=-1805.50]
-[06Feb2025 01:35:07.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Ghost
-[06Feb2025 01:35:08.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29465, l='ServerLevel[world]', x=991.50, y=77.00, z=-1815.50]
-[06Feb2025 01:35:11.554] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29629, l='ServerLevel[world]', x=1021.50, y=72.00, z=-1761.50]
-[06Feb2025 01:35:16.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29742, l='ServerLevel[world]', x=8.50, y=73.00, z=-3477.50]
-[06Feb2025 01:35:17.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:35:27.375] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29814, l='ServerLevel[world]', x=1057.50, y=79.00, z=-1881.50]
-[06Feb2025 01:35:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:35:53.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30218, l='ServerLevel[world]', x=1018.50, y=70.00, z=-1764.50]
-[06Feb2025 01:35:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -310.500000, 65.500000, -3715.500000]
-[06Feb2025 01:35:58.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:36:00.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30464, l='ServerLevel[world]', x=1040.50, y=77.00, z=-1805.50]
-[06Feb2025 01:36:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:36:11.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30557, l='ServerLevel[world]', x=991.50, y=73.00, z=-1770.50]
-[06Feb2025 01:36:29.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30978, l='ServerLevel[world]', x=973.50, y=70.00, z=-1789.50]
-[06Feb2025 01:36:39.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Wither Skeleton
-[06Feb2025 01:36:59.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31541, l='ServerLevel[world]', x=1041.50, y=80.00, z=-1839.50]
-[06Feb2025 01:37:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 01:37:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [The Imperial March]
-[06Feb2025 01:37:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:37:20.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31673, l='ServerLevel[world]', x=1057.50, y=79.00, z=-1879.50]
-[06Feb2025 01:37:39.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 01:37:41.026] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32104, l='ServerLevel[world]', x=1032.50, y=72.00, z=-1789.50]
-[06Feb2025 01:37:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:38:19.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [We Need to Go Deeper]
-[06Feb2025 01:38:20.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 moved too quickly! 6.93503852136655,-6.323529123855732,-3.7941542298738113
-[06Feb2025 01:38:20.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
-[06Feb2025 01:38:24.488] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32703, l='ServerLevel[world]', x=1055.50, y=79.00, z=-1881.50]
-[06Feb2025 01:38:48.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32930, l='ServerLevel[world]', x=1039.50, y=77.00, z=-1804.50]
-[06Feb2025 01:39:05.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33384, l='ServerLevel[world]', x=1039.50, y=77.00, z=-1805.50]
-[06Feb2025 01:39:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:39:26.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33658, l='ServerLevel[world]', x=1043.50, y=80.00, z=-1840.50]
-[06Feb2025 01:39:31.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33706, l='ServerLevel[world]', x=1018.50, y=70.00, z=-1766.50]
-[06Feb2025 01:39:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -317.500000, 69.500000, -3738.500000]
-[06Feb2025 01:39:39.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33925, l='ServerLevel[world]', x=1032.50, y=72.00, z=-1788.50]
-[06Feb2025 01:39:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 01:40:13.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:40:13.987] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34369, l='ServerLevel[world]', x=967.50, y=73.00, z=-1765.50]
-[06Feb2025 01:40:27.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34728, l='ServerLevel[world]', x=1001.50, y=71.00, z=-1763.50]
-[06Feb2025 01:40:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 01:40:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:40:54.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35102, l='ServerLevel[world]', x=1020.50, y=70.00, z=-1764.50]
-[06Feb2025 01:42:30.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Timed out
-[06Feb2025 01:42:30.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
-[06Feb2025 01:42:30.863] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[06Feb2025 01:43:17.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.8.105.9:40011] logged in with entity id 36199 at (-286.0188112170943, 64.85909999847412, -3599.7497378111702)
-[06Feb2025 01:43:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
-[06Feb2025 01:43:17.347] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
-[06Feb2025 01:43:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Cover Me with Diamonds]
-[06Feb2025 01:45:05.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37623, l='ServerLevel[world]', x=1041.50, y=80.00, z=-1841.50]
-[06Feb2025 01:45:09.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37667, l='ServerLevel[world]', x=1056.50, y=79.00, z=-1879.50]
-[06Feb2025 01:45:09.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Wither Skeleton
-[06Feb2025 01:46:13.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38735, l='ServerLevel[world]', x=1020.50, y=70.00, z=-1766.50]
-[06Feb2025 01:46:29.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38891, l='ServerLevel[world]', x=603.50, y=73.00, z=-1431.50]
-[06Feb2025 01:47:05.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39275, l='ServerLevel[world]', x=747.50, y=71.00, z=-1451.50]
-[06Feb2025 01:47:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Dark Metallurgy]
-[06Feb2025 01:47:45.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39682, l='ServerLevel[world]', x=745.50, y=71.00, z=-1451.50]
-[06Feb2025 01:48:13.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Skeleton Thrasher
-[06Feb2025 01:48:21.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40335, l='ServerLevel[world]', x=-103.50, y=69.00, z=-3361.50]
-[06Feb2025 01:48:21.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was shot by Dark Vortex
-[06Feb2025 01:48:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Cave Centipede
-[06Feb2025 01:49:06.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41240, l='ServerLevel[world]', x=-96.50, y=70.00, z=-3328.50]
-[06Feb2025 01:49:24.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41492, l='ServerLevel[world]', x=-131.50, y=70.00, z=-3358.50]
-[06Feb2025 01:49:26.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41553, l='ServerLevel[world]', x=-18.50, y=73.00, z=-3475.50]
-[06Feb2025 01:49:32.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was shot by Skeleton
-[06Feb2025 01:49:37.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41857, l='ServerLevel[world]', x=-103.50, y=69.00, z=-3360.50]
-[06Feb2025 01:49:54.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42088, l='ServerLevel[world]', x=1030.50, y=72.00, z=-1789.50]
-[06Feb2025 01:49:59.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42128, l='ServerLevel[world]', x=1.50, y=73.00, z=-3483.50]
-[06Feb2025 01:50:01.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42165, l='ServerLevel[world]', x=-130.50, y=70.00, z=-3360.50]
-[06Feb2025 01:50:02.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42184, l='ServerLevel[world]', x=-131.50, y=70.00, z=-3359.50]
-[06Feb2025 01:50:39.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 706.500000, -11.500000, -1553.500000]
-[06Feb2025 01:50:40.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42764, l='ServerLevel[world]', x=-129.50, y=70.00, z=-3358.50]
-[06Feb2025 01:50:54.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42912, l='ServerLevel[world]', x=-101.50, y=69.00, z=-3359.50]
-[06Feb2025 01:50:57.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42934, l='ServerLevel[world]', x=718.50, y=70.00, z=-1454.50]
-[06Feb2025 01:50:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Crops of the Wild]
-[06Feb2025 01:51:15.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43128, l='ServerLevel[world]', x=8.50, y=73.00, z=-3476.50]
-[06Feb2025 01:51:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Zombie
-[06Feb2025 01:51:46.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43296, l='ServerLevel[world]', x=968.50, y=73.00, z=-1763.50]
-[06Feb2025 01:52:03.126] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43610, l='ServerLevel[world]', x=-129.50, y=70.00, z=-3359.50]
-[06Feb2025 01:52:07.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43639, l='ServerLevel[world]', x=719.50, y=70.00, z=-1455.50]
-[06Feb2025 01:52:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkt404> zzzz
-[06Feb2025 01:52:23.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:52:25.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 lost connection: Disconnected
-[06Feb2025 01:52:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 left the game
-[06Feb2025 01:52:36.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:35419] logged in with entity id 43934 at (1026.702724245923, 220.0, -1845.7928262576925)
-[06Feb2025 01:52:36.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
-[06Feb2025 01:52:36.537] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
-[06Feb2025 01:52:43.329] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44226, l='ServerLevel[world]', x=-79.50, y=70.00, z=-3404.50]
-[06Feb2025 01:52:51.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44302, l='ServerLevel[world]', x=1041.50, y=80.00, z=-1840.50]
-[06Feb2025 01:52:54.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44315, l='ServerLevel[world]', x=-95.50, y=70.00, z=-3391.50]
-[06Feb2025 01:53:01.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Mr. Pumpkin
-[06Feb2025 01:53:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Sir Pumpkinhead
-[06Feb2025 01:53:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:53:24.775] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45045, l='ServerLevel[world]', x=6.50, y=73.00, z=-3478.50]
-[06Feb2025 01:53:27.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45092, l='ServerLevel[world]', x=991.50, y=77.00, z=-1817.50]
-[06Feb2025 01:53:29.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45098, l='ServerLevel[world]', x=-93.50, y=70.00, z=-3391.50]
-[06Feb2025 01:53:46.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45240, l='ServerLevel[world]', x=-6.50, y=73.00, z=-3506.50]
-[06Feb2025 01:53:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -317.500000, 69.500000, -3738.500000]
-[06Feb2025 01:54:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:57:32.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:58:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 01:58:23.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49066, l='ServerLevel[world]', x=973.50, y=70.00, z=-1787.50]
-[06Feb2025 01:58:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 01:58:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 02:01:10.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:01:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was doomed to fall
-[06Feb2025 02:01:15.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:01:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Crops of the Wild]
-[06Feb2025 02:01:26.078] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/51797, l='ServerLevel[world]', x=-805.50, y=71.00, z=-3338.50]
-[06Feb2025 02:01:35.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/51886, l='ServerLevel[world]', x=-797.50, y=72.00, z=-3396.50]
-[06Feb2025 02:01:50.874] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52032, l='ServerLevel[world]', x=-818.50, y=75.00, z=-3369.50]
-[06Feb2025 02:02:08.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52209, l='ServerLevel[world]', x=-799.50, y=72.00, z=-3397.50]
-[06Feb2025 02:02:28.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52470, l='ServerLevel[world]', x=625.50, y=70.00, z=-1429.50]
-[06Feb2025 02:02:31.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52507, l='ServerLevel[world]', x=-818.50, y=74.00, z=-3348.50]
-[06Feb2025 02:02:31.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Chest Slayer]
-[06Feb2025 02:02:31.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52517, l='ServerLevel[world]', x=-768.50, y=75.00, z=-3346.50]
-[06Feb2025 02:03:09.706] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-517, y=74, z=-3029}
-[06Feb2025 02:03:10.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-517, y=74, z=-3029} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
-[06Feb2025 02:03:10.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-517, y=74, z=-3029}
-[06Feb2025 02:03:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 02:03:24.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dan0980> pipipi
-[06Feb2025 02:03:50.278] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[06Feb2025 02:03:50.279] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[06Feb2025 02:03:50.279] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[06Feb2025 02:03:50.279] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[06Feb2025 02:03:50.279] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[06Feb2025 02:04:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 02:04:13.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Nightmare Stalker
-[06Feb2025 02:04:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:04:27.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -649.500000, 70.500000, -3026.500000]
-[06Feb2025 02:04:30.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Spider
-[06Feb2025 02:04:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -661.500000, 65.500000, -3002.500000]
-[06Feb2025 02:04:36.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has reached the goal [Fighting Nightmares]
-[06Feb2025 02:04:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has reached the goal [Fighting Nightmares]
-[06Feb2025 02:04:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Dark Metallurgy]
-[06Feb2025 02:05:41.609] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[06Feb2025 02:05:48.538] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[06Feb2025 02:05:48.541] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[06Feb2025 02:05:48.541] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[06Feb2025 02:05:48.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[06Feb2025 02:05:48.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[06Feb2025 02:05:48.576] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[06Feb2025 02:05:48.576] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[06Feb2025 02:05:48.576] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[06Feb2025 02:05:56.097] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[06Feb2025 02:05:56.098] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[06Feb2025 02:05:56.098] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[06Feb2025 02:05:56.098] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[06Feb2025 02:05:56.098] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[06Feb2025 02:05:56.258] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[06Feb2025 02:05:56.258] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[06Feb2025 02:05:56.259] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[06Feb2025 02:05:56.260] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[06Feb2025 02:05:56.260] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[06Feb2025 02:05:56.260] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[06Feb2025 02:05:56.261] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[06Feb2025 02:07:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
-[06Feb2025 02:07:54.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Zombie
-[06Feb2025 02:08:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [The Wind Darkening]
-[06Feb2025 02:08:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -649.500000, 70.500000, -2653.500000]
-[06Feb2025 02:09:55.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 lost connection: Disconnected
-[06Feb2025 02:09:55.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 left the game
-[06Feb2025 02:10:32.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [Good Demoman]
-[06Feb2025 02:10:53.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Corpse Fly
-[06Feb2025 02:11:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -565.500000, 64.500000, -2511.500000]
-[06Feb2025 02:11:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was blown up by Creeper
-[06Feb2025 02:11:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -573.500000, 64.500000, -2521.500000]
-[06Feb2025 02:13:06.152] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[06Feb2025 02:14:09.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matty088[/127.109.23.60:40283] logged in with entity id 60832 at (488.2614681588342, 48.200000047683716, -1511.300000011921)
-[06Feb2025 02:14:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 joined the game
-[06Feb2025 02:14:09.742] [Server thread/INFO] [Jade/]: Syncing config to matty088 (237b10b0-aa84-3c70-8075-584454b171dc)
-[06Feb2025 02:14:40.645] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[06Feb2025 02:16:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:16:18.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Cover Me with Diamonds]
-[06Feb2025 02:16:19.918] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[06Feb2025 02:16:47.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06Feb2025 02:17:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Frostmaw
-[06Feb2025 02:17:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -760.500000, 71.500000, -1605.500000]
-[06Feb2025 02:17:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Cyclops
-[06Feb2025 02:17:59.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Set own game mode to Creative Mode]
-[06Feb2025 02:18:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to -751.500000, 71.500000, -1613.500000]
-[06Feb2025 02:19:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Set own game mode to Survival Mode]
-[06Feb2025 02:20:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [The Lighthouse]
-[06Feb2025 02:20:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Book of Monsters]
-[06Feb2025 02:20:12.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 moved too quickly! -4.446601340973643,0.0,9.16340404738321
-[06Feb2025 02:20:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Would you Like to Know More?]
-[06Feb2025 02:20:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [The Lighthouse]
-[06Feb2025 02:21:01.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 02:21:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:22:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 81.500000, 79.500000, -2102.500000]
-[06Feb2025 02:23:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to Darkt404]
-[06Feb2025 02:24:01.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 497.500000, 37.500000, -1530.500000]
-[06Feb2025 02:24:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Who You Gonna Call?]
-[06Feb2025 02:24:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 fell from a high place
-[06Feb2025 02:25:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 497.500000, 37.500000, -1530.500000]
-[06Feb2025 02:25:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dan0980> mimido
-[06Feb2025 02:25:25.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69972, l='ServerLevel[world]', x=22.52, y=58.94, z=-1978.25] died, message: 'Unemployed was slain by Zombie'
-[06Feb2025 02:25:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Darkt404]
-[06Feb2025 02:27:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 02:27:26.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
-[06Feb2025 02:29:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Dark Forging]
-[06Feb2025 02:29:58.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 81.500000, 79.500000, -2102.500000]
-[06Feb2025 02:30:16.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has reached the goal [Dark Blacksmith]
-[06Feb2025 02:30:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 02:30:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 has made the advancement [You Are A Pirate]
-[06Feb2025 02:31:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to Darkt404]
-[06Feb2025 02:31:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [You Are A Pirate]
-[06Feb2025 02:31:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to Dan0980]
-[06Feb2025 02:31:40.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [You Are A Pirate]
-[06Feb2025 02:32:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Sea Serpent
-[06Feb2025 02:32:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to Dan0980]
-[06Feb2025 02:32:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Vindicator
-[06Feb2025 02:32:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:32:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Vindicator
-[06Feb2025 02:32:58.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -843.500000, 67.500000, 34.500000]
-[06Feb2025 02:33:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 was slain by Vindicator
-[06Feb2025 02:33:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkt404: Teleported Darkt404 to Dan0980]
-[06Feb2025 02:33:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Vindicator
-[06Feb2025 02:33:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:33:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Vindicator
-[06Feb2025 02:33:35.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Dan0980
-[06Feb2025 02:34:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Sea Serpent
-[06Feb2025 02:34:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:34:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Sea? Not a Problem]
-[06Feb2025 02:35:36.414] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
-[06Feb2025 02:35:41.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13364ms or 267 ticks behind
-[06Feb2025 02:35:41.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 moved too quickly! 6.553286945744503,-0.0108937489838965,-7.587516472545882
-[06Feb2025 02:35:41.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matty088 moved too quickly! -0.8271636794983124,0.5355406886924214,-10.071417216307566
-[06Feb2025 02:35:41.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dan0980 moved too quickly! 0.1619880669069289,10.128321561915065,1.0015535454482745
-[06Feb2025 02:35:55.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 81.500000, 79.500000, -2102.500000]
-[06Feb2025 02:36:11.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkt404 lost connection: Timed out
-[06Feb2025 02:36:11.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 left the game
-[06Feb2025 02:36:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:39:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Junior Summoner]
-[06Feb2025 02:39:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was doomed to fall by Dan0980 using [Tequila]
-[06Feb2025 02:39:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was doomed to fall by matty088
-[06Feb2025 02:39:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to -108.500000, -41.500000, -2040.500000]
-[06Feb2025 02:39:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -107.500000, -41.500000, -2040.500000]
-[06Feb2025 02:40:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [You Monster...]
-[06Feb2025 02:42:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:42:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Spiders Mother
-[06Feb2025 02:42:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to -43.500000, -44.500000, -2135.500000]
-[06Feb2025 02:43:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has reached the goal [Arachnophobe's Nightmare]
-[06Feb2025 02:43:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was slain by Baby Spider
-[06Feb2025 02:43:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
-[06Feb2025 02:46:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has made the advancement [Hot Stuff]
-[06Feb2025 02:46:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to matty088: tonoto
-[06Feb2025 02:46:39.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 has made the advancement [Hot Stuff]
-[06Feb2025 02:47:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 has reached the goal [Big Boy]
-[06Feb2025 02:47:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dan0980: la mano arriba
-[06Feb2025 02:48:49.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was blown up by matty088
-[06Feb2025 02:48:57.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to -36.500000, -44.500000, -2191.500000]
-[06Feb2025 02:49:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 was blown up by matty088
-[06Feb2025 02:49:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to matty088]
+[06Feb2025 19:52:19.463] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[06Feb2025 19:52:19.464] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[06Feb2025 19:52:19.482] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[06Feb2025 19:52:19.482] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[06Feb2025 19:52:19.490] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[06Feb2025 19:52:19.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[06Feb2025 19:52:19.517] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[06Feb2025 19:52:19.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[06Feb2025 19:52:19.523] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[06Feb2025 19:52:19.545] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[06Feb2025 19:52:19.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.550] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[06Feb2025 19:52:19.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.552] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[06Feb2025 19:52:19.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[06Feb2025 19:52:19.557] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[06Feb2025 19:52:19.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.565] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[06Feb2025 19:52:19.565] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[06Feb2025 19:52:19.588] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[06Feb2025 19:52:19.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[06Feb2025 19:52:19.589] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[06Feb2025 19:52:19.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.601] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[06Feb2025 19:52:19.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[06Feb2025 19:52:19.638] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[06Feb2025 19:52:19.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[06Feb2025 19:52:19.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[06Feb2025 19:52:19.664] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[06Feb2025 19:52:19.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[06Feb2025 19:52:19.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[06Feb2025 19:52:19.686] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[06Feb2025 19:52:19.686] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[06Feb2025 19:52:19.694] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[06Feb2025 19:52:19.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[06Feb2025 19:52:19.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[06Feb2025 19:52:19.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[06Feb2025 19:52:19.706] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[06Feb2025 19:52:19.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[06Feb2025 19:52:19.752] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[06Feb2025 19:52:19.802] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[06Feb2025 19:52:19.831] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[06Feb2025 19:52:19.840] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[06Feb2025 19:52:19.880] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5534 advancements
+[06Feb2025 19:52:19.889] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[06Feb2025 19:52:19.898] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[06Feb2025 19:52:19.903] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[06Feb2025 19:52:19.903] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[06Feb2025 19:52:19.916] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
+[06Feb2025 19:52:19.924] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[06Feb2025 19:52:19.932] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[06Feb2025 19:52:19.943] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[06Feb2025 19:52:19.953] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[06Feb2025 19:52:23.286] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[06Feb2025 19:52:23.671] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.451739ms
+[06Feb2025 19:52:23.675] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[06Feb2025 19:52:23.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Feb2025 19:52:23.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Feb2025 19:52:23.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Feb2025 19:52:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Feb2025 19:52:23.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Feb2025 19:52:23.998] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Feb2025 19:52:24.137] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Feb2025 19:52:24.138] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Feb2025 19:52:24.138] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Feb2025 19:52:24.138] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Feb2025 19:52:24.523] [Server thread/INFO] [spark/]: Starting background profiler...
+[06Feb2025 19:52:24.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Feb2025 19:52:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Feb2025 19:52:31.536] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.573] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.586] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.591] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.601] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.624] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:31.787] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Feb2025 19:52:32.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[06Feb2025 19:52:32.787] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[06Feb2025 19:52:32.871] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5084 ms
+[06Feb2025 19:52:32.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.719s)! For help, type "help"
+[06Feb2025 19:52:32.949] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Feb2025 19:52:32.953] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06Feb2025 19:52:32.953] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06Feb2025 19:52:56.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dan0980[/127.141.61.87:36649] logged in with entity id 80 at (-31.461857482080667, -46.0, -2128.056014203689)
+[06Feb2025 19:52:57.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dan0980 joined the game
+[06Feb2025 19:52:57.138] [Server thread/INFO] [Jade/]: Syncing config to Dan0980 (70fdaaaa-8bb4-3e0b-b52f-59459b03d8db)
+[06Feb2025 19:52:59.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[06Feb2025 19:53:19.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matty088[/127.109.23.60:47219] logged in with entity id 382 at (-49.36010480184162, -44.0, -2147.0404635243526)
+[06Feb2025 19:53:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 joined the game
+[06Feb2025 19:53:19.412] [Server thread/INFO] [Jade/]: Syncing config to matty088 (237b10b0-aa84-3c70-8075-584454b171dc)
+[06Feb2025 19:55:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matty088 was slain by Dan0980
+[06Feb2025 19:56:03.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 9.500000, -52.500000, -2162.500000]
+[06Feb2025 19:56:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dan0980: Teleported Dan0980 to 497.500000, 37.500000, -1530.500000]
+[06Feb2025 19:56:14.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matty088: Teleported matty088 to 498.500000, 37.500000, -1532.500000]
+[06Feb2025 20:01:21.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkt404[/127.8.105.9:55221] logged in with entity id 2085 at (-797.9884683984911, 62.32026741893082, 30.569203708174427)
+[06Feb2025 20:01:21.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkt404 joined the game
+[06Feb2025 20:01:21.823] [Server thread/INFO] [Jade/]: Syncing config to Darkt404 (4f001a9d-3353-352c-9e70-3f5850fac051)
